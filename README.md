@@ -1,4 +1,4 @@
-### Hi!👋 I am Diego
+### Hi!👋 I'm Diego!
 ## Computer Science undergraduate student @ UFRJ
 - C
 - Java
@@ -8,9 +8,6 @@
 ## Systems Analyst Intern @ Finep.
 - Using Java and Camunda Platform (BPMN) to develop workflow and decision automation.
 #
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning Python
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
