@@ -1,5 +1,13 @@
-### Hi!👋 I am Diego, a Computer Science undergraduate student @ UFRJ and a Systems Analyst Intern @ Finep.
-
+### Hi!👋 I am Diego
+## Computer Science undergraduate student @ UFRJ
+- C
+- Java
+- Data Structures
+- AI with Python
+- Algorithms and Graphs.
+## Systems Analyst Intern @ Finep.
+- Using Java and Camunda Platform (BPMN) to develop workflow and decision automation.
+#
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Python
 
