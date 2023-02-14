@@ -21,7 +21,7 @@
 - AI with Python
 - Algorithms and Graphs.
 ## Systems Analyst Intern @ Finep.
-- Using Java and Camunda Platform (BPMN) to develop systems with workflow and decision automation.
+- Using Java and Camunda Platform (BPMN) to develop systems based on workflow with decision automation.
 
 ##
 
