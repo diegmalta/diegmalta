@@ -22,7 +22,11 @@
 - Data Structures
 - AI with Python
 - Algorithms and Graphs.
-## Systems Analyst Intern @ Finep.
+
+## RPA Developer @ Smarthis (2024-Ongoing).
+- Using UiPath and RPA to develop automations workflows.
+
+## Systems Analyst Intern @ Finep (2022-2024).
 - Using Java and Camunda Platform (BPMN) to develop systems based on workflow with decision automation.
 
 ##
