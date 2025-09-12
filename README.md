@@ -16,17 +16,20 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegmalta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Computer Science undergraduate student at UFRJ
+## Computer Science undergraduate student | UFRJ
 - C
 - Java
 - Data Structures
 - AI with Python
 - Algorithms and Graphs.
 
-## RPA Developer at Smarthis (2024-Ongoing).
+## System Developer Junior | Elevential Digital Solutions (2024 - Ongoing).
+- Using Python Django & React to develop web systems.
+
+## RPA Developer Intern | Smarthis (2024-2024).
 - Using UiPath and RPA to develop automations workflows.
 
-## Systems Analyst Intern at Finep (2022-2024).
+## Systems Analyst Intern | Finep (2022-2024).
 - Using Java and Camunda Platform (BPMN) to develop systems based on workflow with decision automation.
 
 ##
